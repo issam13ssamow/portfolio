@@ -1,5 +1,5 @@
 <?php
-$db=mysqli_connect("localhost","root","","iportfolio");
+$db=mysqli_connect("https://potfolio-sam.herokuapp.com/","root","","iportfolio");
 //if($db){
 //    echo "databse is connected !";
 //}else{
